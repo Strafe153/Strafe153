@@ -1,5 +1,4 @@
 ### Hi there 👋, Vitalii Knysh
-#### Design and Development
 I'm a motivated, hard-working and quick on the uptake software engineering student, who is passionate about web-development. Efficient, decisive and passionate about web-development.
 
 Skills: ASP.NET Core MVC / Web API / EF Core / JS / HTML / CSS
