@@ -5,6 +5,6 @@ I'm a motivated, hard-working and quick on the uptake software engineering stude
 * :computer: ASP.NET Core MVC, Web API 
 * :notebook: EF Core, MS SQL Server
 * :book: xUnit, Moq
-* :pencil2: JS, HTML, CSS
+* :pencil2: JavaScript, HTML, CSS, Bootstrap
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Strafe153)
