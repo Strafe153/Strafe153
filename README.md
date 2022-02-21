@@ -2,10 +2,10 @@
 I'm a motivated, hard-working and quick on the uptake software engineering student, who is passionate about web-development. Efficient, decisive and passionate about web-development.
 
 ## Skills: 
-* :computer: ASP.NET Core MVC, Web API 
+* :desktop_computer: ASP.NET Core MVC, Web API 
 * :notebook: EF Core, MS SQL Server
 * :book: xUnit, Moq
-* :pencil2: JavaScript, HTML, CSS, Bootstrap
+* :paintbrush: JavaScript, HTML, CSS, Bootstrap
 * :large_orange_diamond: Git
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Strafe153)
