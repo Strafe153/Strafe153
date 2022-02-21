@@ -6,5 +6,6 @@ I'm a motivated, hard-working and quick on the uptake software engineering stude
 * :notebook: EF Core, MS SQL Server
 * :book: xUnit, Moq
 * :pencil2: JavaScript, HTML, CSS, Bootstrap
+* :large_orange_diamond: Git
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Strafe153)
