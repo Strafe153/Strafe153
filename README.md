@@ -2,7 +2,7 @@
 I'm a motivated, hard-working and quick on the uptake software engineering student, who is passionate about web-development. Efficient, decisive and passionate about web-development.
 
 ## Skills: 
-* :desktop_computer: C#, ASP.NET Core MVC, Web API 
+* :desktop_computer: C#, ASP.NET Web API, Core MVC
 * :notebook: EF Core, MS SQL Server
 * :book: xUnit, Moq
 * :paintbrush: JavaScript, TypeScript, HTML, CSS, SASS/SCSS, Bootstrap, Angular
