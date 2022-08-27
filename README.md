@@ -1,5 +1,5 @@
 ### Hi there 👋, Vitalii Knysh
-I'm a motivated, hard-working and quick on the uptake software engineering student, who is passionate about web-development. Efficient, decisive and passionate about web-development.
+I'm a hard-working software engineering student adept at designing, developing, testing and maintaining software systems. Constantly expand my knowledge of adjacent technologies.
 
 ## Skills: 
 * :desktop_computer: C#, ASP.NET Web API, Core MVC
