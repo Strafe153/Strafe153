@@ -4,8 +4,8 @@ I'm a hard-working software engineering student adept at designing, developing, 
 ## Skills: 
 * :desktop_computer: C# .NET, ASP.NET Web API, Core MVC
 * :notebook: EF Core, MS SQL Server
-* :pencil: AutoMapper, FluentValidation
-* :book: xUnit, Moq, AutoFixture, FluentAssertions
+* :book: AutoMapper, FluentValidation
+* :pencil: xUnit, Moq, AutoFixture, FluentAssertions
 * :large_orange_diamond: Git, Postman
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Strafe153)
