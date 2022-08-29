@@ -3,7 +3,7 @@ I'm a hard-working software engineering student adept at designing, developing, 
 
 ## Skills: 
 * :desktop_computer: C# .NET, ASP.NET Web API, Core MVC
-* :notebook::globe_with_meridians: EF Core, MS SQL Server
+* :globe_with_meridians: EF Core, MS SQL Server
 * :book: AutoMapper, FluentValidation
 * :pencil: xUnit, Moq, AutoFixture, FluentAssertions
 * :large_orange_diamond: Git, Postman
