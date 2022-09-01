@@ -6,7 +6,7 @@ I'm a hard-working software engineering student adept at designing, developing, 
 * :globe_with_meridians: EF Core, MS SQL Server
 * :notebook: AutoMapper, FluentValidation
 * :book: xUnit, Moq, AutoFixture, FluentAssertions
-* :pencil: NLog
+* :pencil: Serilog, NLog
 * :large_orange_diamond: Git, Postman
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Strafe153)
