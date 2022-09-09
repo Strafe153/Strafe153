@@ -5,7 +5,7 @@ I'm a hard-working software engineering student adept at designing, developing, 
 * :desktop_computer: C# .NET, ASP.NET Web API, Core MVC
 * :globe_with_meridians: EF Core, MS SQL Server
 * :notebook: AutoMapper, Mapster, FluentValidation
-* :book: xUnit, Moq, AutoFixture, FluentAssertions
+* :book: xUnit, Moq, AutoFixture, FluentAssertions, NUnit, NSubstitute
 * :pencil: Serilog, NLog
 * :large_orange_diamond: Git, Postman
 
