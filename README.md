@@ -2,9 +2,9 @@
 I'm a hard-working software engineering student adept at designing, developing, testing and maintaining software systems. Constantly expand my knowledge of adjacent technologies.
 
 ## Skills: 
-* :desktop_computer: C# .NET, ASP.NET Web API, Core MVC
+* :desktop_computer: C# .NET, ASP.NET Web API
 * :globe_with_meridians: EF Core, MS SQL Server
-* :notebook: AutoMapper, Mapster, FluentValidation
+* :notebook: FluentValidation, AutoMapper, Mapster
 * :book: xUnit, Moq, AutoFixture, FluentAssertions, NUnit, NSubstitute
 * :pencil: Serilog, NLog
 * :large_orange_diamond: Git, Postman
