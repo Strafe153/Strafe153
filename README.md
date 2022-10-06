@@ -4,8 +4,8 @@ I'm a hard-working software engineering student adept at designing, developing, 
 ## Skills: 
 * :desktop_computer: C# .NET, ASP.NET Core Web API
 * :globe_with_meridians: EF Core, MS SQL Server, PostgreSQL, Dapper
-* :notebook: Redis, MongoDB, IdentityServer4
-* :book: xUnit, Moq, NUnit, NSubstitute
+* :notebook: Redis, MongoDB
+* :book: xUnit, Moq, NUnit, NSubstitute, IdentityServer4
 * :pencil: Serilog, NLog
 * :large_orange_diamond: Git, Postman
 
