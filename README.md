@@ -5,7 +5,7 @@ I'm a hard-working software engineering student adept at designing, developing, 
 * :desktop_computer: C# .NET, ASP.NET Core Web API
 * :globe_with_meridians: EF Core, MS SQL Server, PostgreSQL, Dapper
 * :notebook: Redis, MongoDB
-* :book: xUnit, Moq, NUnit, NSubstitute, IdentityServer4
+* :book: xUnit, Moq, NUnit, NSubstitute
 * :pencil: Serilog, NLog
 * :large_orange_diamond: Git, Postman
 
