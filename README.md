@@ -3,7 +3,7 @@ I'm a hard-working software engineering student adept at designing, developing, 
 
 ## Skills: 
 * :desktop_computer: C# .NET, ASP.NET Core Web API, ASP.NET Core MVC
-* :globe_with_meridians: EF Core, MS SQL Server, MySQL, PostgreSQL, ADO.NET, Dapper
+* :globe_with_meridians: EF Core, MS SQL Server, MySQL, PostgreSQL, ADO.NET, Dapper, NHibernate
 * :notebook: Redis, OData, MongoDB, MediatR
 * :book: xUnit, Moq, NUnit, NSubstitute, MSTest
 * :pencil: Serilog, NLog
