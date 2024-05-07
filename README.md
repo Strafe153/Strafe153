@@ -1,4 +1,4 @@
-### Hi there 👋, Vitalii Knysh
+### Vitalii Knysh
 I'm a hard-working software engineering student adept at designing, developing, testing and maintaining software systems. Constantly expand my knowledge of adjacent technologies.
 
 ## Skills: 
