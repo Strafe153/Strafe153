@@ -5,5 +5,3 @@
 * :book: xUnit, Moq, NUnit, NSubstitute, MSTest, FakeItEasy
 * :pencil: Serilog, NLog, log4net
 * :large_orange_diamond: Git, Postman
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Strafe153)
